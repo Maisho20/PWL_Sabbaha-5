@@ -1,2 +1,2 @@
-# PWL_Sabbaha-5
-Praktikum 05
+# PWL_Sabbaha-6
+Praktikum 06
